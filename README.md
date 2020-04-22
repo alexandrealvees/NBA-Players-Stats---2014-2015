@@ -1,1 +1,1 @@
-# NBA-Players-Stats---2014-2015
+# Analie simples dos dados da NBA e dos Jogadores entre 2014-2015
